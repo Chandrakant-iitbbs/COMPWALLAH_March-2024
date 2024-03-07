@@ -14,7 +14,7 @@ Basic Website Development for Compwallah!
 
 1. **Index.html**
    The homepage of the website featuring a brief introduction to Compwallah and navigation links to other sections.
-2. **Project.html**
+2. **Projects.html**
    Showcase of Compwallah's projects with detailed descriptions, images and links to GitHub repositories.
 3. **About.html**
    An engaging "About Us" section highlighting Compwallah's mission, values, and team members skills, education, and work experience.
